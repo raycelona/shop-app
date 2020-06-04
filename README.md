@@ -1,3 +1,5 @@
+A mock shopping list/recipe book.  This is a work in progress!
+
 # ShopApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
