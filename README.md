@@ -1,4 +1,4 @@
-A mock shopping list/recipe book.  This is a work in progress!
+A mock shopping list/recipe book built in Angular with Firebase.  This is a work in progress!
 
 # ShopApp
 
